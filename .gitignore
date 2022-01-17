@@ -1,0 +1,10 @@
+target/
+*.iml
+.idea/*
+
+## Java ##
+*.class
+
+## Gradle ##
+.gradle
+/build/
